@@ -6,7 +6,7 @@
 - 💞️ En él momento no me ecuentro colaborando en ningun proyacto, pero si tengo propuestas que en un futuro no muy lejano 
       emprendere con algunos colegas y compañeros de trabajo
 - 🧑‍💼 En él momento  me ecuentro trabajando  en un proyacto personal gestionado con el stack Laravel 9 e Inertiajs con Vuejs 3 y Piniajs.
-- 📫 Para whatsapp contactarme mi correo electronico es johann.devfull@gmail.com
+- 📫 Para  contactarme mi correo electronico es johann.devfull@gmail.com
 - 📞   O a [Mi Whatsapp](https://wa.me/573118523576?text=Hola!%20Estoy%20interesado%20en%20tu%HV)
 
 <!---
