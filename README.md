@@ -9,8 +9,6 @@
 - 📫 Para whatsapp contactarme mi correo electronico es johann.devfull@gmail.com
 - 📞   O a [Mi Whatsapp](https://wa.me/573118523576?text=Hola!%20Estoy%20interesado%20en%20tu%HV)
 
-- 🖥️  [I'm an inline-style link](https://www.google.com)
-
 <!---
 JohannDevFull/JohannDevFull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
