@@ -7,8 +7,9 @@
       emprendere con algunos colegas y compañeros de trabajo
 - 🧑‍💼 En él momento  me ecuentro trabajando  en un proyacto personal gestionado con el stack Laravel 9 e Inertiajs con Vuejs 3 y Piniajs.
 - 📫 Para whatsapp contactarme mi correo electronico es johann.devfull@gmail.com
-- 📞   O a [Mi Whatsapp]([https://www.google.com](https://wa.me/573118523576?text=Hola!%20Estoy%20interesado%20en%20tu%HV)) 
+- 📞   O a [Mi Whatsapp](https://wa.me/573118523576?text=Hola!%20Estoy%20interesado%20en%20tu%HV)
 
+- 🖥️  [I'm an inline-style link](https://www.google.com)
 
 <!---
 JohannDevFull/JohannDevFull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
